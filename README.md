@@ -27,3 +27,8 @@ MessageHandler 은 메세지와 구독 요청을 메세지브로커에게 전달
 ## 참고 자료
 * https://asfirstalways.tistory.com/359  
 * https://docs.spring.io/spring/docs/5.0.4.RELEASE/spring-framework-reference/web.html#websocket-stomp-message-flow
+
+## 할 일
+
+* @EventListner 에 대한 학습 필요 (어느시점에 실행되는지, 무슨 역할인지 ? 등,, )   
+* 인메모리 메세지 브로커가 아닌 RavvitMQ / ActiveMQ 에 대하여 학습하고 적용해보기
